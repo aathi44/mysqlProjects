@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch WriterControl",
+            "request": "launch",
+            "mainClass": "WriterControl",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch Writer",
+            "request": "launch",
+            "mainClass": "Writer",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch ballMover",
+            "request": "launch",
+            "mainClass": "ballMover",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch filejoel",
+            "request": "launch",
+            "mainClass": "filejoel",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch aathifx",
+            "request": "launch",
+            "mainClass": "vscode.aathifx",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch simpleaathi",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "vscode.simpleaathi",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch ",
+            "request": "launch Controllers",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "vscode.Controllers",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch legen",
+            "request": "launch",
+            "mainClass": "legen",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch simpleaathi",
+            "request": "launch",
+            "mainClass": "simpleaathi",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventHandleByAthi",
+            "request": "launch",
+            "mainClass": "EventHandleByAthi",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch MenuCreating",
+            "request": "launch",
+            "mainClass": "MenuCreating",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListViewAathi",
+            "request": "launch",
+            "mainClass": "ListViewAathi",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComboBoxAthi",
+            "request": "launch",
+            "mainClass": "ComboBoxAthi",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch ToggleButton",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "ToggleButton",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabelAthi",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "LabelAthi",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "App",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch aahti",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "aahti",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch aathifx",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "aathifx",
+            "projectName": "src_bcacf919"
+        },
+        {
+            "type": "java",
+            "name": "Launch loosu",
+            "request": "launch",
+            "mainClass": "loosu",
+            "projectName": "src_bcacf919"
+        }
+    ]
+}
